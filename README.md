@@ -108,7 +108,7 @@ Dataset/
 
 ### Support Case Explorer
 
-![Explorer](Screenshots/Support%20Case%20Explorer.png)
+![Support Case Explorer](Technical-Support-Ticket-Analysis-PowerBI/Screenshots/Support%20Case%20Explorer.png)
 
 ---
 
