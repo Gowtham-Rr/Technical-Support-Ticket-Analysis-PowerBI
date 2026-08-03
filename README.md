@@ -102,7 +102,7 @@ Dataset/
 
 ### Ticket Performance Dashboard
 
-![Dashboard](Screenshots/Dashboard%20Overview.png)
+![Dashboard Preview](Technical-Support-Ticket-Analysis-PowerBI/Screenshots/Dashboard%20Overview.png)
 
 ---
 
