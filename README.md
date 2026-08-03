@@ -2,7 +2,6 @@
 
 ![Dashboard Preview](Screenshots/Dashboard%20Overview.png)
 
-# Technical Support Ticket Analysis Dashboard
 
 An interactive Power BI dashboard designed to analyze technical support ticket performance, SLA compliance, ticket resolution efficiency, and support request trends.
 
