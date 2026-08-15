@@ -126,7 +126,6 @@ Dataset/
 - Data Cleaning
 - DAX
 - Dashboard Design
-- Business Intelligence
 - KPI Development
 - Data Visualization
 - Storytelling with Data
