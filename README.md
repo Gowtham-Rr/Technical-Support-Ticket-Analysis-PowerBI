@@ -136,5 +136,4 @@ Dataset/
 
 **Gowtham Achar**
 
-GitHub:
-LinkedIn:
+LinkedIn:https://www.linkedin.com/in/gowtham-r-4aa127226/
