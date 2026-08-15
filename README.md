@@ -124,7 +124,6 @@ Dataset/
 ## Skills Demonstrated
 
 - Data Cleaning
-- Data Modeling
 - DAX
 - Dashboard Design
 - Business Intelligence
